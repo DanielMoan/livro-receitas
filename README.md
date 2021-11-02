@@ -4,6 +4,5 @@
 
 Olá! bem vindo ao livro de receitas :wave:
 
-- strogonoff de frango
-
-  
+- Strogonoff de frango
+- Pavê
